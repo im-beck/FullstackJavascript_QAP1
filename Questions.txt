@@ -1,0 +1,20 @@
+1. How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
+
+It took me maybe 2 hours to complete the assessment with research time included and any trial and error of coding
+
+2. What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+
+I mostly used Google and Youtube, as well as a bit of help from ChatGPT to get it to simplify explanations of the packages and modules. 
+
+3. Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
+
+I did not.
+
+4. Did you need to ask questions to any of your instructors? If so, how many questions did you ask (or how many help sessions did you require)?
+
+I did not need to ask any questions.
+
+5. Rate (subjectively) the difficulty of each question from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
+
+Both tasks were about a 1/5 in terms of difficultly, probably even lower than that. This was a pretty simple QAP but I enjoy getting practice in regardless.
+I am pretty confident that I could solve similar problems in the future.
